@@ -7,7 +7,7 @@ A list of projects in C++
 
  		1. Casino
  
-		 2. Generate Fibonacci Series
+		2. Generate Fibonacci Series
  
  		3. Pig latin game
  
