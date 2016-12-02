@@ -19,4 +19,4 @@ A list of projects in C++
  
       	The Tic-Tac-Toe game was inspired by http://www.cppforschool.com/project/tic-tac-toe-project.html
       
-   Suggestions, Bug fixes and pateches are welcomed !
+   Suggestions are welcomed !
