@@ -17,6 +17,6 @@ A list of projects in C++
  
  		6. Tic-Tac-Toe game
  
-      	The Tic-Tac-Toe game was inspired by http://www.cppforschool.com/project/tic-tac-toe-project.html
+      	The Tic-Tac-Toe game was inspired by [Tic-Tac-Toe](http://www.cppforschool.com/project/tic-tac-toe-project.html)
       
    Suggestions are welcomed !
